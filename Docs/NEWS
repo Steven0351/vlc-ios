@@ -1,5 +1,12 @@
 # Changelog
 
+## iOS [3.2.1]
+
+· Add automatic appearance setting for iOS 13
+· Fix SMB issues
+· Fix external screen, AirPlay mirroring issues
+· Fix minor stability and interface issues
+
 ## iOS [3.2.0]
 · This releases introduces a completely new interface, more intuitive, easier to use and features an up-to-date look. This is a first step for future releases that will improve this interface even more.
 · It also introduces a completely new media library backend, that allows a much easier management of Music and Audio files.
