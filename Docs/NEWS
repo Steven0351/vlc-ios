@@ -3,8 +3,15 @@
 ## iOS [3.2.1]
 
 · Add automatic appearance setting for iOS 13
-· Fix SMB issues
-· Fix external screen, AirPlay mirroring issues
+· Add indicator inside a playlist for reordering
+· Adapt empty view for current context
+· Fix local network navigation
+· Fix local network infinite reloading
+· Fix local network connection dialog
+· Fix external screen, AirPlay mirroring black screen
+· Fix opening media from other application
+· Fix artwork being shown after backgrounding the application during playback
+· Fix cancel button not being shown on the connect screen iPads
 · Fix minor stability and interface issues
 
 ## iOS [3.2.0]
